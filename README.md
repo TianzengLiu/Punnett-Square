@@ -7,7 +7,7 @@ My design decisions followed the instructions of the Design elements:(​https:/
 2. I separated the "container" under the navigation bar into two columns,
 left column is 8(put the Punnett-Square ) and right column is 4(put the Chart).
 
-3. in the left column, I reparated three sub-columns which are for the three 
+3. in the left column, I separated three sub-columns which are for the three 
 left-pea squares, left-pea squares' children, top-pea three squares + result square.
 
 4. I put three rows in the third sub-column, which are the top-pea three squares, 
