@@ -7,7 +7,7 @@ My design decisions followed the instructions of the Design elements:(​https:/
 2. I separated the "container" under the navigation bar into two columns,
 left column is 8(put the Punnett-Square ) and right column is 4(put the Chart).
 
-3. in the left column, I separated three sub-columns which are for the three 
+3. In the left column, I separated three sub-columns which are for the three 
 left-pea squares, left-pea squares' children, top-pea three squares + result square.
 
 4. I put three rows in the third sub-column, which are the top-pea three squares, 
@@ -41,21 +41,21 @@ Since only "yy" gives us green svg so I will write a function to decide conditio
 2. I will update the color and ratio in the chart according the results we generate from the result
 square. The function should keep track the number of "yy"(green), we can set up a "count" varible, the sum is always 4, 
 "4-count" will be the numbers of yellow. Also, I will add three "div" to update the ratio and keep it updated. The function
-should have three varibles to store "YY", "Yy", "yy", and and count the each one of the occurances and update
+should have three varibles to store "YY", "Yy", "yy", and count each one of the occurances and update
 them according the children from the result square.
 
 
 
 iv. Add anything else you think is important
 
-1. since this project show students the Law of Segregation of genes (the "First Law"), we can add advanced
+1. Since this project shows students the Law of Segregation of genes (the "First Law"), we can add advanced
 interactive of Law of Independent Assortment (the "Second Law") and Law of Dominance (the "Third Law"). In order to show students the different aspects of gene inheritance. 
 
-2. for the very beginners among the students we can add "?" tooltips to guide them to read more concepts in this interactive.
+2. For the very beginners among the students we can add "?" tooltips to guide them to read more concepts in this interactive.
 
-3. we also can add "input" to let students try their own thoughts and do experiments dynamically by themselves,
-to cultivate and inspire the creative thoughts.
+3. We also can add "input" to let students try their own thoughts and do experiments dynamically by themselves,
+to cultivate and inspire their creative thoughts.
 
-4. we can add quiz to have students to test their knowledge learning from this project to increase their interest
+4. We can add quiz to have students to test their knowledge learning from this project to increase their interest
 and confidence.
 
